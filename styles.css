@@ -4,6 +4,11 @@ html {
     font-family: 'Open Sans', sans-serif;
 }
 
+h1.title {
+    font-size: 32px;
+    font-weight: bold;    
+}
+
 a:link, a:visited {
     background-color: #fff;
     color: #000;
