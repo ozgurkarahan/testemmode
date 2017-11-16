@@ -17,7 +17,7 @@
     <open-in>MSEdge</open-in>
   </site>
   <site url="labanquepostale.fr">
-    <compat-mode>IE7Enterprise</compat-mode>
-    <open-in>IE11</open-in>
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
 </site-list>
