@@ -1,8 +1,8 @@
-<site-list version="4">
+<site-list version="5">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>10.0.14357.1004</version>
-    <date-created>10/20/2017 13:41:29</date-created>
+    <date-created>11/16/2017 13:11:01</date-created>
   </created-by>
   <site url="site1disfe.azurewebsites.net">
     <compat-mode>Default</compat-mode>
@@ -14,6 +14,10 @@
   </site>
   <site url="site3disfe.azurewebsites.net">
     <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="labanquepostale.fr">
+    <compat-mode>IE7Enterprise</compat-mode>
     <open-in>IE11</open-in>
   </site>
 </site-list>
