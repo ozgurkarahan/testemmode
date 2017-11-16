@@ -1,4 +1,4 @@
-<site-list version="2">
+<site-list version="7">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>10.0.14357.1004</version>
@@ -13,6 +13,10 @@
     <open-in>MSEdge</open-in>
   </site>
   <site url="site3disfe.azurewebsites.net/iframe2">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="labanquepostale.fr">
     <compat-mode>Default</compat-mode>
     <open-in>MSEdge</open-in>
   </site>
